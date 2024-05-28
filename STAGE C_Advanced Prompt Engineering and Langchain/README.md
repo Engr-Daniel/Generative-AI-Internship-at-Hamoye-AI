@@ -23,4 +23,4 @@ Here are the key points about prompting and the LangChain framework covered in t
 
 The lessons cover different prompting techniques to improve language model performance, as well as an introduction to the LangChain framework for building AI applications by combining language models with other components.
 
-### LAB 3 [CODE]()
+### LAB 3 [CODE](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/blob/master/STAGE%20C_Advanced%20Prompt%20Engineering%20and%20Langchain/LAB%203_Advanced%20Prompt%20Engineering%20and%20LangChain.ipynb)
