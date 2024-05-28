@@ -26,4 +26,4 @@ An overview of generative AI models, with a focus on large language models (LLMs
 Overall, this lecture note provides a comprehensive introduction to generative AI models, with a particular emphasis on large language models, their architecture, applications, and the Hugging Face Transformers library for working with these models in NLP tasks.
 
 ### Personal Homework: 
-[HOW TO IMPLEMENT HUGGING FACE TRANSFORMER PIPELINES]()
+[HOW TO IMPLEMENT HUGGING FACE TRANSFORMER PIPELINES](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/blob/master/STAGE%20A_Introduction%20to%20Generative%20AI/HuggingFaceTransformerPipelines.ipynb)
