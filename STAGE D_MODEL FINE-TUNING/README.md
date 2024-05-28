@@ -28,4 +28,4 @@ Here is a brief overview:
 - Uploading and formatting data for OpenAI API
 - Creating and monitoring OpenAI fine-tuning jobs
 
-### [Quiz_Code]()
+### [Quiz_Code](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/blob/master/STAGE%20D_MODEL%20FINE-TUNING/Stage%20D_QUIZ_Tagalong%20Code.ipynb)
