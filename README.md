@@ -1,5 +1,6 @@
 # Generative-AI-Internship-at-Hamoye-AI
 This repo is to track my activity during my internship at Hamoye AI (Generative AI Track)
+
 **Date:** April, 2024 - July, 2024
 
 ## STAGE A: [Introduction to Generative AI](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/tree/master/STAGE%20A_Introduction%20to%20Generative%20AI)
@@ -9,7 +10,7 @@ This repo is to track my activity during my internship at Hamoye AI (Generative 
 - Applications of LLMs
 - The Transformers Library from Hugging Face
 
-## STAGE C: [Advanced Prompt Engineering and Langchain]()
+## STAGE C: [Advanced Prompt Engineering and Langchain](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/tree/master/STAGE%20C_Advanced%20Prompt%20Engineering%20and%20Langchain)
 - Zero-Shot Prompting
 - Few-Shot Prompting
 - Chain of Thought (CoT) Prompting
