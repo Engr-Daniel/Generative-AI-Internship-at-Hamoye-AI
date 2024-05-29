@@ -1,4 +1,4 @@
-Here is a brief overview:
+A brief overview of the course:
 
 ### Lesson 1: Processing the Data
 
