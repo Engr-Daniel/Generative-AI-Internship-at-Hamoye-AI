@@ -10,6 +10,17 @@ This repo is to track my activity during my internship at Hamoye AI (Generative 
 - Applications of LLMs
 - The Transformers Library from Hugging Face
 
+## STAGE B: [OpenAI Fundamentals of Prompt Engineering](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/tree/master/STAGE%20B_%20OpenAI%20Fundamentals%20of%20Prompt%20Engineering)
+
+- Essential OpenAI Concepts (models, prompts, tokens)
+- Models Available in OpenAI API (InstructGPT, ChatGPT, GPT-4)  
+- Introduction to OpenAI Python Library (API keys, API calls, ChatCompletion)
+- Prompt Engineering (designing effective prompts for LLMs)
+- Basics of Prompting (zero-shot vs few-shot, prompt formatting)
+- Tips for Designing Prompts (start simple, clear instructions, output structuring)
+- Examples of Prompting for Various Tasks (summarization, Q&A, classification, conversation, code)
+- Prompt Engineering on Other LLMs (Mistral 7B)
+
 ## STAGE C: [Advanced Prompt Engineering and Langchain](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/tree/master/STAGE%20C_Advanced%20Prompt%20Engineering%20and%20Langchain)
 - Zero-Shot Prompting
 - Few-Shot Prompting
