@@ -32,3 +32,9 @@ This repo is to track my activity during my internship at Hamoye AI (Generative 
 - Processing the Data
 - Fine-tuning with the Trainer API
 - Optimizing LLMs with Fine-Tuning
+
+## STAGE E: [GenAI End to End Project](https://github.com/Engr-Daniel/Generative-AI-Internship-at-Hamoye-AI/tree/master/STAGE%20E_GenAI%20End%20to%20End%20Project)
+- Semantic Search with LLMs
+- Asymmetric Semantic Search
+- The Components
+- Building a Q/A Bot with ChatGPT
